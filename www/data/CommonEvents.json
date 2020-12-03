@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"list":[{"code":111,"indent":0,"parameters":[12,"Input.isTriggered('letter_c')"]},{"code":121,"indent":1,"parameters":[3,3,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"StopEnemies","switchId":2,"trigger":2},
+{"id":1,"list":[{"code":111,"indent":0,"parameters":[12,"Input.isTriggered('letter_c')"]},{"code":121,"indent":1,"parameters":[3,3,0]},{"code":129,"indent":1,"parameters":[4,0,false]},{"code":129,"indent":1,"parameters":[5,1,false]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"StopEnemies","switchId":2,"trigger":2},
 {"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
