@@ -7,3 +7,5 @@ Direction vectors
 Select: Z
 Menu: X
 Stop Enemies: C
+<h1>How to Run</h1>
+Download zip file or git pull, click on Game.exe and play
